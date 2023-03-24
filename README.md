@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Computer Science **in Vilnius University**
 
-- 👨‍💻 I'm currently working on my coursework **Harmonify**. (A website that will provide a personalised information
+- 👨‍💻 I'm currently working on my coursework - **Harmonify**. (A website that will provide a personalised information
 about the music people listen on Spotify platform)
 
 - 🌱 I’m currently learning **React and Redux**
